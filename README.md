@@ -1,1 +1,0 @@
-# bcvr_kiosk

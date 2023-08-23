@@ -1,0 +1,26 @@
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\bin\Debug\BCVR_Kiosk.exe.config
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\bin\Debug\BCVR_Kiosk.exe
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\bin\Debug\BCVR_Kiosk.pdb
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\bin\Debug\BCVR_Kiosk.xml
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.Resources.resources
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.vbproj.GenerateResource.Cache
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.exe
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.xml
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.pdb
+C:\Users\BCVR\AppData\Local\Temporary Projects\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.OrderKiosk.resources
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.OrderKiosk.resources
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.Resources.resources
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.vbproj.GenerateResource.Cache
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.exe.config
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.exe.manifest
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.application
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.exe
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.pdb
+B:\BCVR_Kiosk\BCVR_Kiosk\bin\Debug\BCVR Kiosk.xml
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR Kiosk.exe.manifest
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR Kiosk.application
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR Kiosk.exe
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR Kiosk.xml
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR Kiosk.pdb
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.StockReceived.resources
+B:\BCVR_Kiosk\BCVR_Kiosk\obj\Debug\BCVR_Kiosk.Reminder.resources
